@@ -1,10 +1,6 @@
 module.exports = {
   website: {
-    assets: './_assets/website',
-    js: [
-      'gitbook.js',
-      'theme.js'
-    ],
+    assets: './_assets',
     css: [
       'style.css'
     ]
